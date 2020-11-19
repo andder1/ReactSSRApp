@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+
+# Output of webpack
+build/
+public/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Misc
+.DS_Store
